@@ -11,5 +11,5 @@ let package = Package(
     ],
     dependencies: [
         // This package has no external dependencies.
-    ],
+    ]
 )
