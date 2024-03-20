@@ -5,9 +5,7 @@ let package = Package(
     name: "RangeSeekSlider",
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
-        .library(
-            name: "RangeSeekSlider",
-            targets: ["RangeSeekSlider"]),
+        .library(name: "RangeSeekSlider")
     ],
     dependencies: [
         // This package has no external dependencies.
